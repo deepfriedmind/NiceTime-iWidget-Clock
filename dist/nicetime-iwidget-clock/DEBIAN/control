@@ -1,0 +1,11 @@
+Package: com.deepfriedmind.nicetimeiwidgetclock
+Name: NiceTime iWidget Clock
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A nice, customizable clock widget for use with iWidgets.
+Homepage: http://deepfriedmind.com
+Maintainer: Andreas Wahlqvist <andreas@deepfriedmind.com>
+Author: Andreas Wahlqvist <andreas@deepfriedmind.com>
+Sponsor: Deep-Fried Mind <http://deepfriedmind.com>
+Section: Widgets
+Depends: com.eldwin.iwidgets

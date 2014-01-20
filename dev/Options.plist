@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>name</key>
+        <string>h24</string>
+        <key>type</key>
+        <string>switch</string>
+        <key>label</key>
+        <string>24 Hour Clock</string>
+        <key>default</key>
+        <true/>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>color</string>
+        <key>type</key>
+        <string>edit</string>
+        <key>label</key>
+        <string>Color (hex #)</string>
+        <key>default</key>
+        <string>FFF</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>opacity</string>
+        <key>type</key>
+        <string>edit</string>
+        <key>label</key>
+        <string>Opacity (0.0 - 1.0)</string>
+        <key>default</key>
+        <string>1.0</string>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>fontFamily</string>
+        <key>type</key>
+        <string>select</string>
+        <key>label</key>
+        <string>Font</string>
+        <key>default</key>
+        <string>Apple SD Gothic Neo Thin</string>
+        <key>options</key>
+        <dict>
+            <key>Apple SD Gothic Neo Bold</key>
+            <string>AppleSDGothicNeo-Bold</string>
+            <key>Apple SD Gothic Neo Light</key>
+            <string>AppleSDGothicNeo-Light</string>
+            <key>Apple SD Gothic Neo Medium</key>
+            <string>AppleSDGothicNeo-Medium</string>
+            <key>Apple SD Gothic Neo Regular</key>
+            <string>AppleSDGothicNeo-Regular</string>
+            <key>Apple SD Gothic Neo Semi Bold</key>
+            <string>AppleSDGothicNeo-SemiBold</string>
+            <key>Apple SD Gothic Neo Thin</key>
+            <string>AppleSDGothicNeo-Thin</string>
+            <key>Arial</key>
+            <string>Arial</string>
+            <key>Avenir</key>
+            <string>Avenir</string>
+            <key>Chalkduster</key>
+            <string>Chalkduster</string>
+            <key>Dense</key>
+            <string>Dense-Regular</string>
+            <key>Didot</key>
+            <string>Didot</string>
+            <key>Didot Bold</key>
+            <string>Didot-Bold</string>
+            <key>Ecuyer DAX</key>
+            <string>Ecuyer-DAX</string>
+            <key>FFF Tusj</key>
+            <string>FFF-Tusj</string>
+            <key>Futura Condensed Extra Bold</key>
+            <string>Futura-CondensedExtraBold</string>
+            <key>Futura Condensed Medium</key>
+            <string>Futura-CondensedMedium</string>
+            <key>Futura Medium</key>
+            <string>Futura-Medium</string>
+            <key>Georgia</key>
+            <string>Georgia</string>
+            <key>Georgia Bold</key>
+            <string>Georgia-Bold</string>
+            <key>Gill Sans</key>
+            <string>GillSans</string>
+            <key>GillSans Bold</key>
+            <string>GillSans-Bold</string>
+            <key>Georgia</key>
+            <string>Georgia</string>
+            <key>GillSans Light</key>
+            <string>GillSans-Light</string>
+            <key>Helvetica</key>
+            <string>Helvetica</string>
+            <key>Helvetica Bold</key>
+            <string>Helvetica-Bold</string>
+            <key>Helvetica Light</key>
+            <string>Helvetica-Light</string>
+            <key>Helvetica Neue</key>
+            <string>HelveticaNeue</string>
+            <key>Helvetica Neue Bold</key>
+            <string>HelveticaNeue-Bold</string>
+            <key>Helvetica Neue Condensed Black</key>
+            <string>HelveticaNeue-CondensedBlack</string>
+            <key>Helvetica Neue Condensed Bold</key>
+            <string>HelveticaNeue-CondensedBold</string>
+            <key>Helvetica Neue Light</key>
+            <string>HelveticaNeue-Light</string>
+            <key>Helvetica Neue Medium</key>
+            <string>HelveticaNeue-Medium</string>
+            <key>Helvetica Neue Thin</key>
+            <string>HelveticaNeue-Thin</string>
+            <key>Noteworthy Bold</key>
+            <string>Noteworthy-Bold</string>
+            <key>Noteworthy Light</key>
+            <string>Noteworthy-Light</string>
+            <key>Open Sans Light</key>
+            <string>OpenSans-Light</string>
+            <key>Open Sans Regular</key>
+            <string>OpenSans-Regular</string>
+            <key>Open Sans Semi Bold</key>
+            <string>OpenSans-Semibold</string>
+            <key>Open Sans Bold</key>
+            <string>OpenSans-Bold</string>
+            <key>Open Sans Extra Bold</key>
+            <string>OpenSans-ExtraBold</string>
+            <key>Roboto Black</key>
+            <string>Roboto-Black</string>
+            <key>Roboto Bold</key>
+            <string>Roboto-Bold</string>
+            <key>Roboto Light</key>
+            <string>Roboto-Light</string>
+            <key>Roboto Medium</key>
+            <string>Roboto-Medium</string>
+            <key>Roboto Regular</key>
+            <string>Roboto-Regular</string>
+            <key>Roboto Thin</key>
+            <string>Roboto-Thin</string>
+            <key>Verdana</key>
+            <string>Verdana</string>
+            <key>Verdana Bold</key>
+            <string>Verdana-Bold</string>
+        </dict>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>fontSize</string>
+        <key>type</key>
+        <string>edit</string>
+        <key>label</key>
+        <string>Font size (px)</string>
+        <key>default</key>
+        <string>84</string>
+    </dict>
+</array>
+</plist>
