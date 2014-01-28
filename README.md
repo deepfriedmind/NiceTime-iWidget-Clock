@@ -63,5 +63,6 @@ Available on the [ModMyi ](http://modmyi.com/info/nicetimeiwidgetclock.d.php) Cy
 
 ## Changelog:
 
+* **1.0.1** – Add Bebas Neue and Ubuntu fonts
 * **1.0.1** – Add "AM/PM" toggle if not using 24 Hour Clock
 * **1.0.0** – Initial release
