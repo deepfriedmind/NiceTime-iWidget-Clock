@@ -93,6 +93,31 @@
     src: url("../fonts/Roboto-Thin.ttf") format("truetype");
 }
 
+@font-face {
+    font-family: "Ubuntu-Bold";
+    src: url("../fonts/Ubuntu-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Ubuntu-Condensed";
+    src: url("../fonts/Ubuntu-Condensed.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Ubuntu-Light";
+    src: url("../fonts/Ubuntu-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Ubuntu-Medium";
+    src: url("../fonts/Ubuntu-Medium.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Ubuntu-Regular";
+    src: url("../fonts/Ubuntu-Regular.ttf") format("truetype");
+}
+
 body {
     margin: 0;
     overflow: visible;

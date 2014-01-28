@@ -155,6 +155,16 @@
             <string>Roboto-Regular</string>
             <key>Roboto Thin</key>
             <string>Roboto-Thin</string>
+            <key>Ubuntu Bold</key>
+            <string>Ubuntu-Bold</string>
+            <key>Ubuntu Condensed</key>
+            <string>Ubuntu-Condensed</string>
+            <key>Ubuntu Light</key>
+            <string>Ubuntu-Light</string>
+            <key>Ubuntu Medium</key>
+            <string>Ubuntu-Medium</string>
+            <key>Ubuntu Regular</key>
+            <string>Ubuntu-Regular</string>
             <key>Verdana</key>
             <string>Verdana</string>
             <key>Verdana Bold</key>
