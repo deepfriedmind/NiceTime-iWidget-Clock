@@ -40,7 +40,7 @@ do (window = this, document) ->
         currentHrsStr = currentHrs.toString()
         currentMinStr = currentMinStr.split ''
         currentHrsStr = currentHrsStr.split ''
-        timeStr = "#{currentHrsStr[0]} #{currentHrsStr[1]} : #{currentMinStr[0]} #{currentMinStr[1]}"
+        timeStr = "#{currentHrsStr[0]}#{currentHrsStr[1]}:#{currentMinStr[0]}#{currentMinStr[1]}"
         timeEl.firstChild.nodeValue = timeStr
 
         if not opts.h24 and opts.showampm
