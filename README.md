@@ -59,6 +59,7 @@ Available on the [ModMyi ](http://modmyi.com/info/nicetimeiwidgetclock.d.php) Cy
 ![](screens/03.png)
 ![](screens/04.png)
 ![](screens/05.png)
+![](screens/06.png)
 
 ## Changelog:
 
