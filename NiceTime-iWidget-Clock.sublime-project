@@ -1,0 +1,15 @@
+{
+ "folders": [
+  {
+   "folder_exclude_patterns": [
+    "node_modules",
+    "screens",
+    "tools"
+   ],
+   "path": "/",
+   "file_exclude_patterns": [
+    "NiceTime-iWidget-Clock.sublime-workspace"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+Package: com.deepfriedmind.nicetimeiwidgetclock
+Architecture: iphoneos-arm
+Sponsor: Deep-Fried Mind <http://deepfriedmind.com>
+Section: Widgets
+Depends: com.eldwin.iwidgets
