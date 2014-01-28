@@ -1,6 +1,26 @@
 @font-face {
-    font-family: "Helvetica-Neue-UltraLight";
-    src: url("../fonts/Helvetica-Neue-UltraLight.ttf") format("truetype");
+    font-family: "BebasNeue-Bold";
+    src: url("../fonts/BebasNeue-Bold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "BebasNeue-Book";
+    src: url("../fonts/BebasNeue-Book.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "BebasNeue-Light";
+    src: url("../fonts/BebasNeue-Light.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "BebasNeue-Regular";
+    src: url("../fonts/BebasNeue-Regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "BebasNeue-Thin";
+    src: url("../fonts/BebasNeue-Thin.otf") format("opentype");
 }
 
 @font-face {

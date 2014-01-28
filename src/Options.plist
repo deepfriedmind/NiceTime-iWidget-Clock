@@ -50,7 +50,7 @@
         <key>label</key>
         <string>Font</string>
         <key>default</key>
-        <string>Apple SD Gothic Neo Thin</string>
+        <string>Bebas Neue Light</string>
         <key>options</key>
         <dict>
             <key>Apple SD Gothic Neo Bold</key>
@@ -69,6 +69,16 @@
             <string>Arial</string>
             <key>Avenir</key>
             <string>Avenir</string>
+            <key>Bebas Neue Bold</key>
+            <string>BebasNeue-Bold</string>
+            <key>Bebas Neue Book</key>
+            <string>BebasNeue-Book</string>
+            <key>Bebas Neue Light</key>
+            <string>BebasNeue-Light</string>
+            <key>Bebas Neue Regular</key>
+            <string>BebasNeue-Regular</string>
+            <key>Bebas Neue Thin</key>
+            <string>BebasNeue-Thin</string>
             <key>Chalkduster</key>
             <string>Chalkduster</string>
             <key>Dense</key>
