@@ -1,7 +1,7 @@
 ###Project specific
 dist
 script.js
-.map
+script.js.map
 
 ###OSX###
 
